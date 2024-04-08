@@ -14,13 +14,20 @@ import Video from './pages/Video'
 import Search from './pages/Search'
 import Not from './pages/Not'
 
+// 컴포넌트
+import Header from './components/section/Header'
+import Main from './components/section/Main'
+import Footer from './components/section/Footer'
+
 
 // 페이지 집합
 const App = () => {
     return (
         <BrowserRouter>
+        <Header/>
+        <Main>
             <Routes> 
-            <Route path='/' element={<Home/>} />
+                <Route path='/' element={<Home/>} />
                 <Route path='/today' element={<Today/>} />
                 <Route path='/developer' element={<Developer/>} />
                 <Route path='/webd' element={<Webd/>} />
@@ -33,6 +40,8 @@ const App = () => {
                 <Route path='/search/:searchId' element={<Search/>} />
                 <Route path='*' element={<Not/>} />
             </Routes>
+        </Main>
+        <Footer/>
         </BrowserRouter>
     )
 }
