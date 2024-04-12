@@ -3,11 +3,11 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import Home from './pages/Home'
 import Today from './pages/Today'
-import Developer from './pages/Developer'
-import Webd from './pages/Webd'
-import Website from './pages/Website'
-import Gsap from './pages/Gsap'
-import Port from './pages/Port'
+import Kpop from './pages/Kpop'
+import Hiphop from './pages/Hiphop'
+import Game from './pages/Game'
+import Popolar from './pages/Popolar'
+import Streamer from './pages/Streamer'
 import Youtube from './pages/Youtube'
 import Channel from './pages/Channel'
 import Video from './pages/Video'
@@ -29,11 +29,11 @@ const App = () => {
             <Routes> 
                 <Route path='/' element={<Home/>} />
                 <Route path='/today' element={<Today/>} />
-                <Route path='/developer' element={<Developer/>} />
-                <Route path='/webd' element={<Webd/>} />
-                <Route path='/website' element={<Website/>} />
-                <Route path='/gsap' element={<Gsap/>} />
-                <Route path='/port' element={<Port/>} />
+                <Route path='/kpop' element={<Kpop/>} />
+                <Route path='/hiphop' element={<Hiphop/>} />
+                <Route path='/game' element={<Game/>} />
+                <Route path='/popular' element={<Popolar/>} />
+                <Route path='/streamer' element={<Streamer/>} />
                 <Route path='/youtube' element={<Youtube/>} />
                 <Route path='/channel/:channelId' element={<Channel/>} />
                 <Route path='/video/:videoId' element={<Video/>} />
