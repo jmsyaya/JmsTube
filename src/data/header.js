@@ -39,7 +39,7 @@ export const headerMenus = [
         src: "/kpop"
     },
     {
-        title: "힙합 플레이리스트",
+        title: "Hip-Hop",
         icon: <GiMoneyStack />,
         src: "/hiphop"
     },
