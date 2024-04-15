@@ -1,8 +1,11 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Popular = () => {
   return (
-    <div>Popular</div>
+    <Main>
+      Popular
+    </Main>
   )
 }
 

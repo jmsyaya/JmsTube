@@ -1,8 +1,9 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Kpop = () => {
   return (
-    <div>K-pop</div>
+    <Main>K-pop</Main>
   )
 }
 

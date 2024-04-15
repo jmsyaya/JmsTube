@@ -1,8 +1,9 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Game = () => {
   return (
-    <div>Game</div>
+    <Main>Game</Main>
   )
 }
 
