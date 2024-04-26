@@ -5,6 +5,10 @@ import { CiMedal } from "react-icons/ci";
 import { GoThumbsup } from "react-icons/go";
 import { IoGameControllerOutline } from "react-icons/io5";
 import { PiCrownSimple } from "react-icons/pi";
+import { CiDumbbell } from "react-icons/ci";
+import { IoCarSportOutline } from "react-icons/io5";
+import { RiComputerLine } from "react-icons/ri";
+import { CiHeadphones } from "react-icons/ci";
 
 import { AiFillGithub } from "react-icons/ai";
 import { SiVelog } from "react-icons/si";
@@ -34,6 +38,11 @@ export const headerMenus = [
         src: "/streamer"
     },
     {
+        title: "IT 개발",
+        icon: <RiComputerLine />,
+        src: "/it"
+    },
+    {
         title: "K-pop",
         icon: <CiMusicNote1 />,
         src: "/kpop"
@@ -44,16 +53,31 @@ export const headerMenus = [
         src: "/hiphop"
     },
     {
+        title: "EDM",
+        icon: <CiHeadphones />,
+        src: "/edm"
+    },
+    {
         title: "게임",
         icon: <IoGameControllerOutline />,
         src: "/game"
+    },
+    {
+        title: "운동",
+        icon: <CiDumbbell />,
+        src: "/sport"
+    },
+    {
+        title: "Car",
+        icon: <IoCarSportOutline />,
+        src: "/car"
     },
 ];
 
 export const searchKeyword = [
     {
-        title: "webstoryboy",
-        src: "/search/webstoryboy"
+        title: "Playlist",
+        src: "/search/Playlist"
     },
     {
         title: "HTML",

@@ -4,12 +4,15 @@ import Main from './components/section/Main'
 
 const Home = lazy(() => import('./pages/Home'));
 const Today = lazy(() => import('./pages/Today'));
+const IT = lazy(() => import('./pages/IT'));
 const Kpop = lazy(() => import('./pages/Kpop'));
 const Hiphop = lazy(() => import('./pages/Hiphop'));
+const EDM = lazy(() => import('./pages/EDM'));
 const Game = lazy(() => import('./pages/Game'));
 const Popular = lazy(() => import('./pages/Popular'));
 const Streamer = lazy(() => import('./pages/Streamer'));
-const Youtube = lazy(() => import('./pages/Youtube'));
+const Sport = lazy(() => import('./pages/Sport'));
+const Car = lazy(() => import('./pages/Car'));
 const Channel = lazy(() => import('./pages/Channel'));
 const Video = lazy(() => import('./pages/Video'));
 const Search = lazy(() => import('./pages/Search'));
@@ -24,12 +27,15 @@ const App = () => {
             <Routes> 
                 <Route path='/' element={<Home/>} />
                 <Route path='/today' element={<Today/>} />
+                <Route path='/it' element={<IT/>} />
                 <Route path='/kpop' element={<Kpop/>} />
                 <Route path='/hiphop' element={<Hiphop/>} />
+                <Route path='/edm' element={<EDM/>} />
                 <Route path='/game' element={<Game/>} />
                 <Route path='/popular' element={<Popular/>} />
                 <Route path='/streamer' element={<Streamer/>} />
-                <Route path='/youtube' element={<Youtube/>} />
+                <Route path='/sport' element={<Sport/>} />
+                <Route path='/car' element={<Car/>} />
                 <Route path='/channel/:channelId' element={<Channel/>} />
                 <Route path='/video/:videoId' element={<Video/>} />
                 <Route path='/search/:searchId' element={<Search/>} />

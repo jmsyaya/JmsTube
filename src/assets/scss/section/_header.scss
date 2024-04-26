@@ -1,5 +1,11 @@
 .header__logo {
     border-bottom: 1px solid var(--black100);  // MyeongSik Youtube 분리 밑줄
+
+@media (max-width: 800px) {
+    border-bottom: 0;
+    
+}
+
     a {
         display: flex;  // em과 span 을 같이 칸(줄)에 정렬
         padding: 10px;
@@ -17,6 +23,12 @@
             padding-left: 3.5px;
             padding-top: 3px;
             display: block;
+
+            @media (max-width: 800px) {
+                padding-left: 5px;
+                padding-top: 5px;
+                display: block;
+            }
         }
 
         span {
@@ -107,6 +119,10 @@
     padding: 15px 0 10px;
     background-color: var(--blackAlpha100);
     backdrop-filter: blur(10px);
+
+    @media (max-width: 800px){
+        display: none;
+    }
 
     li{
         display: inline-block;
