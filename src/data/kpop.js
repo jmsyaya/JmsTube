@@ -23,6 +23,7 @@ import kpop22 from "../assets/img/kpop/site22.jpg";
 import kpop23 from "../assets/img/kpop/site23.jpg";
 import kpop24 from "../assets/img/kpop/site24.jpg";
 import kpop25 from "../assets/img/kpop/site25.jpg";
+import kpop26 from "../assets/img/kpop/site26.jpg";
 
 export const kpopText = [
     {
@@ -203,5 +204,12 @@ export const kpopText = [
         videoId: "xU6FRGi4lHw",
         date: "2023.12.03",
         channelId: "UCx8a_eqjwpl3sDH7YFmwkLQ",
+    },{
+        title: "맞아 잠을 설친 건 너 때문이야 (Losing Sleep Over You)",
+        img: kpop26,
+        author: "펀치 (Punch) - 주제",
+        videoId: "BMyi9tNHwuk",
+        date: "2022.08.31",
+        channelId: "UCwYrC__fHLJqgyRbxLPPh3g",
     },
 ]

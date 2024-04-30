@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const EDM = () => {
     return (
         <section id='edm'>
-            <h2>🎧 오늘 밤 강남? 홍대? 클럽 투어 드가자!!</h2>
+            <h2>🎧 오늘 밤 강남? 홍대? 방구석 클럽 드가자!!</h2>
             <div className="video__inner">
                 {edmText.map((video, key) => (
                     <div className="video" key={key}>
