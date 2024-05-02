@@ -12,6 +12,8 @@ import { edmText } from '../data/edm'
 import { gameText } from '../data/game'
 import { sportText } from '../data/sport'
 import { carText } from '../data/car'
+import { StreamerText } from '../data/streamer'
+import { todayText } from '../data/today'
 
 const Home = () => {
     return (
@@ -19,8 +21,8 @@ const Home = () => {
             title = "정명식 유튜브"
             description="정명식 유튜버 사이트에 오신 것을 환영합니다."
         >
-            <Today />
-            <Streamer />
+            <Today videos={todayText} id='today' />
+            <Streamer videos={StreamerText} title='👫 추천 스트리머를 소개합니다.' id='streamer' />
             <VideoSlider videos={itText} title='💻 IT개발 영상은 이걸로!' id='it' />
             <VideoSlider videos={kpopText} title='🎵 오늘 하루 K-pop 어떠세요?' id='kpop' />
             <VideoSlider videos={hiphopText} title='💵 달고 달디단 밤양갱 갱 갱 Hip-hop 듣자!' id='hiphop' />
