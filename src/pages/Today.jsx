@@ -1,16 +1,26 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import Main from '../components/section/Main'
 
 import { todayText } from '../data/today'
 import { Link } from'react-router-dom'
 
 const Today = () => {
+    const [loading, setLoading] = useState(true);   // DOM 구조 SPA이기 때문에 이런 식으로 처리.
+
+    useEffect(() => {
+        setTimeout(() => {
+            setLoading(false)
+        }, 300);
+    }, []);
+
+    const todayPageClass = loading ? 'is-loading' : 'is-loaded';
+
     return (
         <Main 
             title = "👍 추천 영상"
             description="오늘의 추천 유튜브 영상입니다.">
 
-            <section id= 'todayPage'>
+            <section id= 'todayPage' className={todayPageClass}>
                 <h2>오늘의 추천 영상 입니다.</h2>
                 {todayText.map((today, key) => (
                     <div className='today__inner' key={key}>

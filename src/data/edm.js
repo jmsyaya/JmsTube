@@ -1,7 +1,7 @@
-import port01 from "../assets/img/port/port-vite01.jpg";
-import port02 from "../assets/img/port/port-vite02.jpg";
-import port03 from "../assets/img/port/port-vite03.jpg";
-import port04 from "../assets/img/port/port-vite04.jpg";
+import edm01 from "../assets/img/edm/dj01.jpg";
+import edm02 from "../assets/img/edm/dj02.jpg";
+import edm03 from "../assets/img/edm/dj03.jpg";
+import edm04 from "../assets/img/edm/dj04.jpg";
 import port05 from "../assets/img/port/port-vite05.jpg";
 import port06 from "../assets/img/port/port-vite06.jpg";
 import port07 from "../assets/img/port/port-vite07.jpg";
@@ -25,52 +25,36 @@ import port22 from "../assets/img/port/port-vue02.jpg";
 import port23 from "../assets/img/port/port-vue03.jpg";
 import port24 from "../assets/img/port/port-vue04.jpg";
 import port25 from "../assets/img/port/port-vue05.jpg";
-import port26 from "../assets/img/port/port-vue06.jpg";
-import port27 from "../assets/img/port/port-vue07.jpg";
-import port28 from "../assets/img/port/port-vue08.jpg";
-import port29 from "../assets/img/port/port-vue09.jpg";
-import port30 from "../assets/img/port/port-vue10.jpg";
-
-import port31 from "../assets/img/port/port-next01.jpg";
-import port32 from "../assets/img/port/port-next02.jpg";
-import port33 from "../assets/img/port/port-next03.jpg";
-import port34 from "../assets/img/port/port-next04.jpg";
-import port35 from "../assets/img/port/port-next05.jpg";
-import port36 from "../assets/img/port/port-next06.jpg";
-import port37 from "../assets/img/port/port-next07.jpg";
-import port38 from "../assets/img/port/port-next08.jpg";
-import port39 from "../assets/img/port/port-next09.jpg";
-import port40 from "../assets/img/port/port-next10.jpg";
 
 export const edmText = [
     {
-        title: "01. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 셋팅하기 | 웹스토리보이 | 포트폴리오",
-        img: port01,
-        author: "webstoryboy",
-        videoId: "2ZiZlEvtWgM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "🔥요즘 유행하는 MZ세대 클럽 믹스!🔥 MZ세대 뚤랑이들! 이 믹셋듣고 댄스를 참는다고? | MZ CLUB MUSIC | DJ SURA (수라)",
+        img: edm01,
+        author: "수라 월드 SURA WORLD",
+        videoId: "Pll6504hXsU",
+        date: "2023.10.25",
+        channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
-        title: "02. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 레이아웃 | 프론트앤드 | 포트폴리오",
-        img: port02,
-        author: "webstoryboy",
-        videoId: "qEHaq4M2lXs",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "🌟2024 클럽에서 유행하는 노래 #1🌟 | 𝘿𝙅 𝘼𝙎𝙏𝙀𝙍",
+        img: edm02,
+        author: "ASTER MUSIC",
+        videoId: "wsgsts2ZHII",
+        date: "2024.03.02",
+        channelId: "UC3fPnB3ds2xBY1PTtgkCCYw",
     },{
-        title: "03. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 헤더 영역 | 웹스토리보이 | 포트폴리오",
-        img: port03,
-        author: "webstoryboy",
-        videoId: "fzH2LsKoVdg",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "이노래 들어봤어? 틱톡,릴스'에서 핫한 MZ노래 모음.ZIP | DJ 츄정 | 𝘿𝙅 𝘾𝙃𝙐𝙅𝙐𝙉𝙂 𝙄𝙉 𝙏𝙃𝙀 𝙈𝙄𝙓",
+        img: edm03,
+        author: "ASTER MUSIC",
+        videoId: "RIhoqeJLTD8",
+        date: " 2023.04.04",
+        channelId: "UC3fPnB3ds2xBY1PTtgkCCYw",
     },{
-        title: "04. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 인트로 영역 | 웹스토리보이 | 리액트",
-        img: port04,
-        author: "webstoryboy",
-        videoId: "N4itpjUEqss",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "🔥2024 가장 핫한 클럽노래 MIX!🔥 | 2024 Club Music Mixset! | DJ SURA (수라) | 4K",
+        img: edm04,
+        author: "수라 월드 SURA WORLD",
+        videoId: "B5rjPA7EEi4&t=1743s",
+        date: "2024.04.10",
+        channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
         title: "05. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 스킬 영역 | 웹스토리보이 | 비트",
         img: port05,
@@ -216,111 +200,6 @@ export const edmText = [
         img: port25,
         author: "webstoryboy",
         videoId: "NgXcV73XdEc",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "26. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 사이트 영역 | 포트폴리오 | 사이트 제작",
-        img: port26,
-        author: "webstoryboy",
-        videoId: "PLZmRIge7JI",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "27. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 포트폴리오 영역 | 포트폴리오 | 웹쓰",
-        img: port27,
-        author: "webstoryboy",
-        videoId: "GmO6yNEKQPA",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "28. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 연락처 영역 | 포트폴리오 | 웹스토리보이",
-        img: port28,
-        author: "webstoryboy",
-        videoId: "jBoYyc976-o",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "29. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 푸터 영역 | 포트폴리오 | 웹스토리보이",
-        img: port29,
-        author: "webstoryboy",
-        videoId: "Y_JMRXxZShM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "30. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 마무리 | 포트폴리오 | 웹스토리보이",
-        img: port30,
-        author: "webstoryboy",
-        videoId: "jahFUTbWOM8",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "31. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 셋팅하기 | 포트폴리오 | Next.js",
-        img: port31,
-        author: "webstoryboy",
-        videoId: "oEVQNaRijIo",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "32. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 컨퍼넌트 | 포트폴리오 | Next.js",
-        img: port32,
-        author: "webstoryboy",
-        videoId: "Q2gNBdZzqKs",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "33. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 헤더 영역 | 포트폴리오 | 웹스토리보이",
-        img: port33,
-        author: "webstoryboy",
-        videoId: "oa7IrUt80_w",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "34. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 인트로 영역 | 포트폴리오 | 웹스토리보이",
-        img: port34,
-        author: "webstoryboy",
-        videoId: "v5CC2B7oiQc",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "35. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 스킬 영역 | 포트폴리오 | 웹스토리보이",
-        img: port35,
-        author: "webstoryboy",
-        videoId: "iCivMPVgNco",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "36. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 사이트 영역 | 포트폴리오 | 웹스토리보이",
-        img: port36,
-        author: "webstoryboy",
-        videoId: "q07sEGN5XfQ",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "37. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 포트폴리오 영역 | 포트폴리오 | 웹스토리보이",
-        img: port37,
-        author: "webstoryboy",
-        videoId: "X1FQkZKkeak",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "38. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 연락처 영역 | 포트폴리오 | 웹스토리보이",
-        img: port38,
-        author: "webstoryboy",
-        videoId: "qbOeLfS-0tU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "39. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 푸터 영역 | 포트폴리오 | webstoryboy",
-        img: port39,
-        author: "webstoryboy",
-        videoId: "Pyg44nISZ6w",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "40. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 마무리 | 포트폴리오 | webstoryboy",
-        img: port40,
-        author: "webstoryboy",
-        videoId: "UPltdWsp_Xo",
         date: "2023.09.09",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },
