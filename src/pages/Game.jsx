@@ -22,7 +22,7 @@ const Game = () => {
         >
             <section id='gamePage' className={gamePageClass}>
                 <h2>🕹️ 게임만 하고나면 시간이 순-삭.. 재밌는걸?</h2>
-                <div className="video__inner">
+                <div className="video__inner card">
                     <VideoCard videos={gameText} />
                 </div>
             </section>

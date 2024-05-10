@@ -77,15 +77,15 @@ export const headerMenus = [
 export const searchKeyword = [
     {
         title: "Playlist",
-        src: "/search/Playlist"
+        src: "/search/플레이리스트"
     },
     {
-        title: "HTML",
-        src: "/search/html"
+        title: "EDM",
+        src: "/search/EDM"
     },
     {
-        title: "CSS",
-        src: "/search/css"
+        title: "house",
+        src: "/search/House music"
     },
     {
         title: "JavaScript",
@@ -96,28 +96,28 @@ export const searchKeyword = [
         src: "/search/react.js"
     },
     {
-        title: "Vue.js",
-        src: "/search/vue.js"
-    },
-    {
-        title: "Next.js",
-        src: "/search/next.js"
+        title: "Frontend",
+        src: "/search/Frontend"
     },
     {
         title: "Node.js",
         src: "/search/node.js"
     },
     {
-        title: "SQL",
-        src: "/search/sql"
+        title: "Game",
+        src: "/search/게임"
     },
     {
-        title: "portfolio",
-        src: "/search/React Portfolio"
+        title: "Movie",
+        src: "/search/영화"
     },
     {
-        title: "music",
-        src: "/search/NewJeans"
+        title: "CarReview",
+        src: "/search/차 리뷰"
+    },
+    {
+        title: "Health",
+        src: "/search/헬스"
     }
 ];
 

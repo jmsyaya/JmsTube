@@ -22,7 +22,7 @@ const EDM = () => {
         >
             <section id='edmPage' className={edmPageClass}>
                 <h2>🎧 오늘 밤 강남? 홍대? 방구석 클럽 드가자!!</h2>
-                <div className="video__inner">
+                <div className="video__inner card">
                     <VideoCard videos={edmText} />
                 </div>
             </section>

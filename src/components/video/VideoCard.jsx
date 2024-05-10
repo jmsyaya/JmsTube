@@ -19,7 +19,7 @@ const VideoCard = ({ videos }) => {
                         </div>
                         <div className="info">
                             <span className="author">
-                                <Link to={``}>
+                                <Link to={`/channel/${video.channelId}`}>
                                     {video.author}
                                     </Link>
                             </span>

@@ -22,7 +22,7 @@ const Sport = () => {
         >
             <section id='sportPage' className={sportPageClass}>
                 <h2>🏋️‍♂️ 회원님. 오늘 풀업 10sets, 렛풀다운 10sets, 바벨로우 10sets, 데드리프트 10sets 가능하시죠~?</h2>
-                <div className="video__inner">
+                <div className="video__inner card">
                     <VideoCard videos={sportText} />
                 </div>
             </section>

@@ -22,7 +22,7 @@ const Car = () => {
         >
             <section id='carPage' className={carPageClass}>
                 <h2>🚗 남자의 심금을 울리는 자동차.. "야, 타!"</h2>
-                <div className="video__inner">
+                <div className="video__inner card">
                     <VideoCard videos={carText} />
                 </div>
             </section>

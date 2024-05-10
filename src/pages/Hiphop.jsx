@@ -22,7 +22,7 @@ const Hiphop = () => {
         >
             <section id='hiphopPage' className={hiphopPageClass}>
                 <h2>💵 달고 달디단 밤양갱 갱 갱 Hip-hop 듣자!</h2>
-                <div className="video__inner">
+                <div className="video__inner card">
                     <VideoCard videos={hiphopText} />
                 </div>
             </section>

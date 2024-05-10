@@ -22,7 +22,7 @@ const IT = () => {
         >
             <section id='itPage' className={itPageClass}>
                 <h2>💻 IT개발 영상은 이걸로!</h2>
-                <div className="video__inner">
+                <div className="video__inner card">
                     <VideoCard videos={itText} />
                 </div>
             </section>
