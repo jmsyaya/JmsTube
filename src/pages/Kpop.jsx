@@ -22,7 +22,7 @@ const Kpop = () => {
         >
             <section id='kpopPage' className={kpopPageClass}>
                 <h2>🎵 오늘 하루 K-pop 어떠세요?</h2>
-                <div className="video__inner">
+                <div className="video__inner card">
                     <VideoCard videos={kpopText} />
                 </div>
             </section>
