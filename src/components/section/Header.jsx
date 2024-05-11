@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 
 import Logo from '../header/Logo'
@@ -7,9 +7,15 @@ import Sns from '../header/Sns'
 
 
 const Header = () => {
+    const [ isMenuActive, setIsMenuActive] = useState(false);
+
+    const toggleMenu = () => {      // 토글 메뉴
+        setIsMenuActive(!isMenuActive);
+    }
+
     return (
-        <header id='header' role='banner'>
-            <Logo /> 
+        <header id='header' role='banner' className={isMenuActive ? 'active' : ''}>
+            <Logo toggleMenu={toggleMenu} /> 
             <Menu />
             <Sns />
         </header>
@@ -19,5 +25,3 @@ const Header = () => {
 export default Header
 
 // rel='noopener noreferrer' : 개인정보 및 웹 페이지 보안
-// map() 함수 사용
-// useLocation() 사용

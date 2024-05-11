@@ -4,11 +4,13 @@ import Header from './Header'
 import Footer from './Footer'
 import Search from './Search'
 import { Helmet, HelmetProvider } from 'react-helmet-async'
+import ScrollTo from '../../utils/scrollTo'
 
 
 const Main = (props) => {
     return (
         <HelmetProvider>
+            <ScrollTo />
             <Helmet 
                 titleTemplate="%s | Jms YouTube"        // 페이지 타이틀의 템플릿을 설정/ %s는 나중에 실제 타이틀로 대체
                 defaultTitle="Jms YouTube"       // 기본 타이틀을 설정. 페이지 타이틀이 없는 경우 사용

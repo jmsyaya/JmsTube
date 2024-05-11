@@ -2,12 +2,12 @@ import edm01 from "../assets/img/edm/dj01.jpg";
 import edm02 from "../assets/img/edm/dj02.jpg";
 import edm03 from "../assets/img/edm/dj03.jpg";
 import edm04 from "../assets/img/edm/dj04.jpg";
-import port05 from "../assets/img/port/port-vite05.jpg";
-import port06 from "../assets/img/port/port-vite06.jpg";
-import port07 from "../assets/img/port/port-vite07.jpg";
-import port08 from "../assets/img/port/port-vite08.jpg";
-import port09 from "../assets/img/port/port-vite09.jpg";
-import port10 from "../assets/img/port/port-vite10.jpg";
+import edm05 from "../assets/img/edm/dj05.jpg";
+import edm06 from "../assets/img/edm/dj06.jpg";
+import edm07 from "../assets/img/edm/dj07.jpg";
+import edm08 from "../assets/img/edm/dj08.jpg";
+import edm09 from "../assets/img/edm/dj09.jpg";
+import edm10 from "../assets/img/edm/dj10.jpg";
 
 import port11 from "../assets/img/port/port-react01.jpg";
 import port12 from "../assets/img/port/port-react02.jpg";
@@ -19,12 +19,8 @@ import port17 from "../assets/img/port/port-react07.jpg";
 import port18 from "../assets/img/port/port-react08.jpg";
 import port19 from "../assets/img/port/port-react09.jpg";
 import port20 from "../assets/img/port/port-react10.jpg";
-
 import port21 from "../assets/img/port/port-vue01.jpg";
-import port22 from "../assets/img/port/port-vue02.jpg";
-import port23 from "../assets/img/port/port-vue03.jpg";
-import port24 from "../assets/img/port/port-vue04.jpg";
-import port25 from "../assets/img/port/port-vue05.jpg";
+
 
 export const edmText = [
     {
@@ -52,51 +48,51 @@ export const edmText = [
         title: "🔥2024 가장 핫한 클럽노래 MIX!🔥 | 2024 Club Music Mixset! | DJ SURA (수라) | 4K",
         img: edm04,
         author: "수라 월드 SURA WORLD",
-        videoId: "B5rjPA7EEi4&t=1743s",
+        videoId: "B5rjPA7EEi4",
         date: "2024.04.10",
         channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
-        title: "05. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 스킬 영역 | 웹스토리보이 | 비트",
-        img: port05,
-        author: "webstoryboy",
-        videoId: "8FemQEZVAyQ",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "TPA MIXSET - OUT OF CONTROL #8",
+        img: edm05,
+        author: "TPA [티피에이]",
+        videoId: "XdhbN8ZXzt0",
+        date: "2023.02.15",
+        channelId: "UCrzyiJINzZ-UKQEmDMyq28Q",
     },{
-        title: "06. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 사이트 영역 | 웹스토리보이 | 포폴",
-        img: port06,
-        author: "webstoryboy",
-        videoId: "HoMX0lQfzvg",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "🎧운전 할때 듣는 하우스 맛집 노래🔥ㅣHouse EDM Music DJ mixsetㅣ MAVOFFICIAL",
+        img: edm06,
+        author: "MAVOFFICIAL",
+        videoId: "MsMdMr-iYUM",
+        date: "2021.04.16",
+        channelId: "UCaxlSM4irfV4rk72JUmecoQ",
     },{
-        title: "07. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 포트폴리오 영역 | 웹스토리보이 | 자바스크립트",
-        img: port07,
-        author: "webstoryboy",
-        videoId: "AEVpBAeXOBQ",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[Playlist] EDM 존 | 클럽 인싸춤 네모춤 | Fxxking Banger, 토카토카, 코카인, 제로투, 아스터, 수라",
+        img: edm07,
+        author: "dj 보초왕",
+        videoId: "7V8XVJp1LAw",
+        date: "2023.04.05",
+        channelId: "UCzVzIs1-iv2oxLheMYPzoIg",
     },{
-        title: "08. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 연락처 영역 | 웹스토리보이 | 퍼블리셔",
-        img: port08,
-        author: "webstoryboy",
-        videoId: "mjZISLURugw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "🔥2024 케이팝 MIX!🔥 | 2024 K-POP Mixset! | DJ SURA (수라) | 4K",
+        img: edm08,
+        author: "수라 월드 SURA WORLD",
+        videoId: "r9wppL1mkN8",
+        date: "2024.05.09",
+        channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
-        title: "09. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 푸터 영역 | 웹스토리보이 | 사이트제작",
-        img: port09,
-        author: "webstoryboy",
-        videoId: "r2Gv5a_SJcY",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "구독자가 좋아하는 노래로만 1시간 믹스셋 만들기 DJ ASTER MIXSET FOR MY FOLLOWER",
+        img: edm09,
+        author: "ASTER MUSIC",
+        videoId: "8O1C0Va6SAQ",
+        date: "2022.02.05",
+        channelId: "UC3fPnB3ds2xBY1PTtgkCCYw",
     },{
-        title: "10. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 스킬 영역 | 웹스토리보이 | 비트",
-        img: port10,
-        author: "webstoryboy",
-        videoId: "ePvRxd2d4Ss",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[MIXSET]여기가 바로 감성 힙합클럽 VOL.7 🦋 외힙, 국힙, 힙클, HIP HOP",
+        img: edm10,
+        author: "the next SCON",
+        videoId: "eaFgNpTwkB0",
+        date: "2023.10.16",
+        channelId: "UCJ9GFEhq9xCLeyIevUNEdNA",
     },{
         title: "11. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 셋팅하기 | 프레임워크 | 리액트",
         img: port11,
@@ -172,34 +168,6 @@ export const edmText = [
         img: port21,
         author: "webstoryboy",
         videoId: "hPqonjWGxLU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "22. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 컨퍼넌트 | 포트폴리오 | 프레임워크",
-        img: port22,
-        author: "webstoryboy",
-        videoId: "apcZFPfAaGA",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "23. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 헤더영역 | 포트폴리오 | vue.js",
-        img: port23,
-        author: "webstoryboy",
-        videoId: "rMYiB5TiBbo",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "24. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 인트로 영역 | 포트폴리오 | 취업",
-        img: port24,
-        author: "webstoryboy",
-        videoId: "L4CBHaC3W-U",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "25. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 스킬 영역 | 포트폴리오 | 사이트 제작",
-        img: port25,
-        author: "webstoryboy",
-        videoId: "NgXcV73XdEc",
         date: "2023.09.09",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },

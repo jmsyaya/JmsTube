@@ -30,14 +30,22 @@
     
 }
 
-@media (max-width: 800px){
+@media (max-width: 800px){      // 토글 메뉴 css 구현
     #header {
         left: -260px;
+        background-color: var(--blackAlpha500);
+        transition: left 0.3s;
 
         h1 {
             position: fixed;
             left: 0;
             top: 0;
+        }
+        .header__menu {
+            margin-top: 90px;
+        }
+        &.active {
+            left: 0;
         }
     }
     #main {
