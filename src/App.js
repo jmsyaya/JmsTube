@@ -30,7 +30,7 @@ const App = () => {
                 <Route path='/it' element={<IT/>} />
                 <Route path='/kpop' element={<Kpop/>} />
                 <Route path='/hiphop' element={<Hiphop/>} />
-                <Route path='/edm' element={<EDM/>} />
+                <Route path='/club' element={<EDM/>} />
                 <Route path='/game' element={<Game/>} />
                 <Route path='/popular' element={<Popular/>} />
                 <Route path='/streamer' element={<Streamer/>} />

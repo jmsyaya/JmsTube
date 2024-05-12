@@ -9,17 +9,17 @@ import edm08 from "../assets/img/edm/dj08.jpg";
 import edm09 from "../assets/img/edm/dj09.jpg";
 import edm10 from "../assets/img/edm/dj10.jpg";
 
-import port11 from "../assets/img/port/port-react01.jpg";
-import port12 from "../assets/img/port/port-react02.jpg";
-import port13 from "../assets/img/port/port-react03.jpg";
-import port14 from "../assets/img/port/port-react04.jpg";
-import port15 from "../assets/img/port/port-react05.jpg";
-import port16 from "../assets/img/port/port-react06.jpg";
-import port17 from "../assets/img/port/port-react07.jpg";
-import port18 from "../assets/img/port/port-react08.jpg";
-import port19 from "../assets/img/port/port-react09.jpg";
-import port20 from "../assets/img/port/port-react10.jpg";
-import port21 from "../assets/img/port/port-vue01.jpg";
+import edm11 from "../assets/img/edm/dj11.jpg";
+import edm12 from "../assets/img/edm/dj12.jpg";
+import edm13 from "../assets/img/edm/dj13.jpg";
+import edm14 from "../assets/img/edm/dj14.jpg";
+import edm15 from "../assets/img/edm/dj15.jpg";
+import edm16 from "../assets/img/edm/dj16.jpg";
+import edm17 from "../assets/img/edm/dj17.jpg";
+import edm18 from "../assets/img/edm/dj18.jpg";
+import edm19 from "../assets/img/edm/dj19.jpg";
+import edm20 from "../assets/img/edm/dj20.jpg";
+import edm21 from "../assets/img/edm/dj21.jpg";
 
 
 export const edmText = [
@@ -94,81 +94,81 @@ export const edmText = [
         date: "2023.10.16",
         channelId: "UCJ9GFEhq9xCLeyIevUNEdNA",
     },{
-        title: "11. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 셋팅하기 | 프레임워크 | 리액트",
-        img: port11,
-        author: "webstoryboy",
-        videoId: "Og-tmd7OsI8",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "🌟𝟮𝟬𝟮𝟯클럽에서 유행하는노래 '𝙇𝙀𝙂𝙀𝙉𝘿 총결산'🌟(+쿠키영상)",
+        img: edm11,
+        author: "ASTER MUSIC",
+        videoId: "XQWHwAe4dyE",
+        date: "2023.12.01",
+        channelId: "UC3fPnB3ds2xBY1PTtgkCCYw",
     },{
-        title: "12. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 컨퍼넌트 | 프레임워크 | 리액트",
-        img: port12,
-        author: "webstoryboy",
-        videoId: "AxXNdkxPkPE",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "수라랑 연말 파티 노래 같이 들을까?? | TREND MIXSET 2022 | DJ SURA ( 수라 ) 4K",
+        img: edm12,
+        author: "수라 월드 SURA WORLD",
+        videoId: "9ScAwu7eq40",
+        date: "2022.12.29",
+        channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
-        title: "13. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 헤더영역 | 포트폴리오 | 리액트",
-        img: port13,
-        author: "webstoryboy",
-        videoId: "z1dUDfcry1s",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "춤 안추고는 못 배길걸? 🧢 🐰 엉덩이 자동으로 반응하는 틱톡, 릴스 노동요 | 2024 best of tiktok reels shorts songs",
+        img: edm13,
+        author: "dj 보초왕",
+        videoId: "r4o6ndloa4U",
+        date: "2024.05.08",
+        channelId: "UCzVzIs1-iv2oxLheMYPzoIg",
     },{
-        title: "14. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 인트로 영역 | 포트폴리오 | 리액트",
-        img: port14,
-        author: "webstoryboy",
-        videoId: "iYTyX1rxfbM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "오랜만에돌아왔뚤!진짜진짜신나는클럽음악같이듣자!|2022CLUBTUNE|DJ SURA (수라) | 4K",
+        img: edm14,
+        author: "수라 월드 SURA WORLD",
+        videoId: "c9Z8UnuUr-M",
+        date: "2022.07.20",
+        channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
-        title: "15. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 스킬 영역 | 포트폴리오 | 리액트",
-        img: port15,
-        author: "webstoryboy",
-        videoId: "Uxebhc16cZ0",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "⭐️3시간 DJ아스터⭐️2022클럽에서 유행하는 노래 / 페스티벌 / 탑골EDM / 미친텐션클럽음악",
+        img: edm15,
+        author: "ASTER MUSIC",
+        videoId: "eQr75KSiMJQ",
+        date: "2022.03.15",
+        channelId: "UC3fPnB3ds2xBY1PTtgkCCYw",
     },{
-        title: "16. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 사이트 영역 | 포트폴리오 | 리액트",
-        img: port16,
-        author: "webstoryboy",
-        videoId: "odEkjiLIfQg",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "🎧춤추면서들을수있는 신나는 힙합믹스🎧 l 2021 HipHop Club Mix l MAVOFFICIAL",
+        img: edm16,
+        author: "MAVOFFICIAL",
+        videoId: "xqHPZEah95A",
+        date: "2021.01.21",
+        channelId: "UCaxlSM4irfV4rk72JUmecoQ",
     },{
-        title: "17. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 포트폴리오 영역 | 포트폴리오 | 리액트",
-        img: port17,
-        author: "webstoryboy",
-        videoId: "OIx3E6qe5qM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "수라의 페스티벌 음악을 느껴보고싶다면 ! 벡터페스티벌 믹스 ! | 2022 festival mix | DJ SURA ( 수라 ) | 4K",
+        img: edm17,
+        author: "수라 월드 SURA WORLD",
+        videoId: "zCbOAx2weEw",
+        date: "2022.05.25",
+        channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
-        title: "18. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 연락처 영역 | 포트폴리오 | 리액트",
-        img: port18,
-        author: "webstoryboy",
-        videoId: "oIO9Ko-GoSo",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "산타할아버지도 빵댕이 흔들게되는 | 크리스마스 파티 MIX🎄🎁",
+        img: edm18,
+        author: "ASTER MUSIC",
+        videoId: "X-RRaNFquOw",
+        date: "2021.12.23",
+        channelId: "UC3fPnB3ds2xBY1PTtgkCCYw",
     },{
-        title: "19. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 푸터 영역 | 포트폴리오 | 리액트",
-        img: port19,
-        author: "webstoryboy",
-        videoId: "hViAdG0qqkk",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "2021 DJ MATI 겨울 EDM 페스티벌🎈 DJ MATI Winter EDM Festival MixSet 2021",
+        img: edm19,
+        author: "MATI LAND 마티랜드",
+        videoId: "OzTCJfjf9Hc",
+        date: "2021.12.11",
+        channelId: "UC7c3tVADFRIHrl1t3MDTzEQ",
     },{
-        title: "20. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : React : 마무리 영역 | 포트폴리오 | 리액트",
-        img: port20,
-        author: "webstoryboy",
-        videoId: "0lCuUTt0qPs",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "메리뚤스마스🎄하루종일 신나게 해줄 크리스마스 믹셋🎅 | Merry Christmas Songs 2022 1HOUR | DJ SURA ( 수라 ) | 4K🔔",
+        img: edm20,
+        author: "수라 월드 SURA WORLD",
+        videoId: "ILjRHqzq4ro",
+        date: "2021.12.22",
+        channelId: "UCL1VUVgulGLH4idpAE60FFg",
     },{
-        title: "21. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 셋팅하기 | 포트폴리오 | vue.js",
-        img: port21,
-        author: "webstoryboy",
-        videoId: "hPqonjWGxLU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "2023 클럽노래) 틱톡에서 한번쯤은 들어본 클럽노래 모음집..!",
+        img: edm21,
+        author: "모쉬댄스뮤직",
+        videoId: "TOXChKwhTaw",
+        date: "2022.12.26",
+        channelId: "UC78COPIjdmT3M5TmsUlDvvA",
     },
 ]

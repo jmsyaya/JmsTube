@@ -53,9 +53,9 @@ export const headerMenus = [
         src: "/hiphop"
     },
     {
-        title: "EDM",
+        title: "Club",
         icon: <CiHeadphones />,
-        src: "/edm"
+        src: "/club"
     },
     {
         title: "게임",

@@ -1,11 +1,11 @@
-import webd01 from "../assets/img/webd/webd01.jpg";
-import webd02 from "../assets/img/webd/webd02.jpg";
-import webd03 from "../assets/img/webd/webd03.jpg";
-import webd04 from "../assets/img/webd/webd04.jpg";
-import webd05 from "../assets/img/webd/webd05.jpg";
-import webd06 from "../assets/img/webd/webd06.jpg";
-import webd07 from "../assets/img/webd/webd07.jpg";
-import webd08 from "../assets/img/webd/webd08.jpg";
+import it01 from "../assets/img/it/it01.jpg";
+import it02 from "../assets/img/it/it02.jpg";
+import it03 from "../assets/img/it/it03.jpg";
+import it04 from "../assets/img/it/it04.jpg";
+import it05 from "../assets/img/it/it05.jpg";
+import it06 from "../assets/img/it/it06.jpg";
+import it07 from "../assets/img/it/it07.jpg";
+import it08 from "../assets/img/it/it08.jpg";
 import webd09 from "../assets/img/webd/webd09.jpg";
 import webd10 from "../assets/img/webd/webd10.jpg";
 import webd11 from "../assets/img/webd/webd11.jpg";
@@ -15,86 +15,65 @@ import webd14 from "../assets/img/webd/webd14.jpg";
 import webd15 from "../assets/img/webd/webd15.jpg";
 import webd16 from "../assets/img/webd/webd16.jpg";
 import webd17 from "../assets/img/webd/webd17.jpg";
-import webd18 from "../assets/img/webd/webd18.jpg";
-import webd19 from "../assets/img/webd/webd19.jpg";
-import webd20 from "../assets/img/webd/webd20.jpg";
-import webd21 from "../assets/img/webd/webd21.jpg";
-import webd22 from "../assets/img/webd/webd22.jpg";
-import webd23 from "../assets/img/webd/webd23.jpg";
-import webd24 from "../assets/img/webd/webd24.jpg";
-import webd25 from "../assets/img/webd/webd25.jpg";
-import webd26 from "../assets/img/webd/webd26.jpg";
-import webd27 from "../assets/img/webd/webd27.jpg";
-import webd28 from "../assets/img/webd/webd28.jpg";
-import webd29 from "../assets/img/webd/webd29.jpg";
-import webd30 from "../assets/img/webd/webd30.jpg";
-import webd31 from "../assets/img/webd/webd31.jpg";
-import webd32 from "../assets/img/webd/webd32.jpg";
-import webd33 from "../assets/img/webd/webd33.jpg";
-import webd34 from "../assets/img/webd/webd34.jpg";
-import webd35 from "../assets/img/webd/webd35.jpg";
-import webd36 from "../assets/img/webd/webd36.jpg";
-import webd37 from "../assets/img/webd/webd37.jpg";
-import webd38 from "../assets/img/webd/webd38.jpg";
-import webd39 from "../assets/img/webd/webd39.jpg";
+
 
 export const itText = [
     {
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(A-1) | 웹스토리보이 | 2023 웹디기",
-        img: webd01,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "프론트엔드 백엔드란 무엇인가? | 클라이언트 서버란 무엇인가? | 초보자를 위한 쉬운 개념 정리!",
+        img: it01,
+        author: "짐코딩 GYM CODING",
+        videoId: "aXi1H_4ncvs",
+        date: "2021.06.10",
+        channelId: "UCZ30aWiMw5C8mGcESlAGQbA",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(A-2) | 웹스토리보이 | 웹디자인기능사",
-        img: webd02,
-        author: "webstoryboy",
-        videoId: "Yg_NYns8IYA",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "리액트 시작전 모르면 낭패보는 자바스크립트 문법 싹! 정리! 이거 먼저 보고 리액트 공부 시작하자 | 자바스크립트 문법 어디까지 아니?",
+        img: it02,
+        author: "코딩알려주는누나",
+        videoId: "NcI-WJSWdv8",
+        date: "2022.04.22",
+        channelId: "UCfBvs0ZJdTA43NQrnI9imGA",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(A-3) | 웹스토리보이 | 웹디자인기능사 실기",
-        img: webd03,
-        author: "webstoryboy",
-        videoId: "OcQCpfg9QYQ",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "이거 모르면 프론트엔드 개발자 못됨 | 리액트 진짜 쉽게 설명해줌 | 리액트 초보자 입문 강의 1탄",
+        img: it03,
+        author: "코딩알려주는누나",
+        videoId: "MeZ3FCTub3I",
+        date: "2021.08.08",
+        channelId: "UCfBvs0ZJdTA43NQrnI9imGA",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(A-4) | 웹스토리보이 | 웹디기 독학",
-        img: webd04,
-        author: "webstoryboy",
-        videoId: "3XQMhbcEH88",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "프론트엔드 화룡점정ㄹㅇ개 핵심강의 | 리액트 이거보도고 이해못하면 집가라...",
+        img: it04,
+        author: "코딩알려주는누나",
+        videoId: "qcphnSqneE0",
+        date: "2021.08.11",
+        channelId: "UCfBvs0ZJdTA43NQrnI9imGA",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(B-1) | 웹스토리보이 | 웹디자인기능사 무료로 합격하기",
-        img: webd05,
-        author: "webstoryboy",
-        videoId: "QwNNvxaPg1w",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "React Hooks에 취한다 - useState 15분만에 마스터하기 | 리액트 훅스 시리즈",
+        img: it05,
+        author: "별코딩",
+        videoId: "G3qglTF-fFI",
+        date: "2021.11.22",
+        channelId: "UCDfJ2rNZsANU6ZNYNlzDJ5Q",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(B-2) | 웹스토리보이 | 웹디자인기능사 실기 독학",
-        img: webd06,
-        author: "webstoryboy",
-        videoId: "pEiNADG7LEI",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "React Hooks에 취한다 - useEffect 깔끔하게 마스터하기 | 리액트 훅스 시리즈",
+        img: it06,
+        author: "별코딩",
+        videoId: "kyodvzc5GHU",
+        date: "2022.11.27",
+        channelId: "UCDfJ2rNZsANU6ZNYNlzDJ5Q",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(B-3) | 웹스토리보이 | 웹디자인기능사 실기 just 쇼핑몰",
-        img: webd07,
-        author: "webstoryboy",
-        videoId: "pLxtF5yAw84",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "React 입문자들이 알아야할 Redux 쉽게설명 (8분컷)",
+        img: it07,
+        author: "코딩애플",
+        videoId: "QZcYz2NrDIs",
+        date: "2021.09.13",
+        channelId: "UCSLrpBAzr-ROVGHQ5EmxnUg",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(B-4) | 웹스토리보이 | 웹디자인기능사 실기 슬라이드",
-        img: webd08,
-        author: "webstoryboy",
-        videoId: "rlB7s-hJ398",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "React의 가상돔 (Virtual DOM)이 뭔가요? (짱 쉬움)",
+        img: it08,
+        author: "별코딩",
+        videoId: "gc-kXt0tjTM",
+        date: "2022.07.31",
+        channelId: "UCDfJ2rNZsANU6ZNYNlzDJ5Q",
     },{
         title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(C-1) | 웹스토리보이 | 웹디자인기능사 실기",
         img: webd09,
@@ -158,159 +137,5 @@ export const itText = [
         videoId: "EtK5SlmOlvw",
         date: "2023.09.09",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(E-2) | 웹스토리보이 | 웹디자인기능사 실기 비주얼스튜디오",
-        img: webd18,
-        author: "webstoryboy",
-        videoId: "OwimPPHqt1A",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(E-3) | 웹스토리보이 | 웹디자인기능사 실기 기출문제",
-        img: webd19,
-        author: "webstoryboy",
-        videoId: "kLYD9llonRs",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(E-4) | 웹스토리보이 | 웹디기 레이아웃",
-        img: webd20,
-        author: "webstoryboy",
-        videoId: "fFpUdBY7r4s",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 메뉴 가로 유형(M-1) | 웹스토리보이 | 메뉴 제이쿼리",
-        img: webd21,
-        author: "webstoryboy",
-        videoId: "HUyjtgZAeXU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 메뉴 가로 유형(M-2) | 웹스토리보이 | 자바스크립트",
-        img: webd22,
-        author: "webstoryboy",
-        videoId: "38bKoEVVOk4",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 메뉴 가로 유형(M-3) | 웹스토리보이 | 메뉴 가로 스크립트",
-        img: webd23,
-        author: "webstoryboy",
-        videoId: "mdrsNRupoJY",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 메뉴 세로 유형(M-4) | 웹스토리보이 | 메뉴 스크립트",
-        img: webd24,
-        author: "webstoryboy",
-        videoId: "KZoi7THJc08",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 메뉴 세로 유형(M-5) | 웹스토리보이 | 메뉴 제이쿼리",
-        img: webd25,
-        author: "webstoryboy",
-        videoId: "qkqBOgTEZ5c",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 메뉴 세로 유형(M-6) | 웹스토리보이 | 메뉴 자바스크립트",
-        img: webd26,
-        author: "webstoryboy",
-        videoId: "0ns-3YaKnCw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-1) | 웹스토리보이 | 이미지 슬라이드",
-        img: webd27,
-        author: "webstoryboy",
-        videoId: "Cb4aVA_bMfw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-2) | 웹스토리보이 | 이미지 슬라이드 자바스크립트",
-        img: webd28,
-        author: "webstoryboy",
-        videoId: "MoQ9LKOfkfQ",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-3) | 웹스토리보이 | 이미지 슬라이드 제이쿼리",
-        img: webd29,
-        author: "webstoryboy",
-        videoId: "oaCr25Vy-hw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-4) | 웹스토리보이 | 이미지 슬라이드 페이드 효과 반응형",
-        img: webd30,
-        author: "webstoryboy",
-        videoId: "tt4yj_JVuLk",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-5) | 웹스토리보이 | 이미지 슬라이드 좌우 반응형",
-        img: webd31,
-        author: "webstoryboy",
-        videoId: "TCrVOaAUFec",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 슬라이드 유형(S-6) | 웹스토리보이 | 이미지 슬라이드 위아래 반응형",
-        img: webd32,
-        author: "webstoryboy",
-        videoId: "PARnjHoyofk",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 탭메뉴 유형(T-1) | 웹스토리보이 | 탭 메뉴 스크립트",
-        img: webd33,
-        author: "webstoryboy",
-        videoId: "gEw-jRrWOUo",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 팝업 유형(P-1) | 웹스토리보이 | 팝업 | 레이어 팝업",
-        img: webd34,
-        author: "webstoryboy",
-        videoId: "kr7vQaS8C6Q",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : A유형",
-        img: webd35,
-        author: "webstoryboy",
-        videoId: "Yj1fQB_09fg",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : B유형",
-        img: webd36,
-        author: "webstoryboy",
-        videoId: "zIRhhGuj_v4",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : C유형",
-        img: webd37,
-        author: "webstoryboy",
-        videoId: "ZgalH_xl9oc",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : D유형",
-        img: webd38,
-        author: "webstoryboy",
-        videoId: "ykarD4oUoaM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : E유형",
-        img: webd39,
-        author: "webstoryboy",
-        videoId: "IkJXy4zpQUM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },
+    }
 ]
