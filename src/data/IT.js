@@ -6,15 +6,13 @@ import it05 from "../assets/img/it/it05.jpg";
 import it06 from "../assets/img/it/it06.jpg";
 import it07 from "../assets/img/it/it07.jpg";
 import it08 from "../assets/img/it/it08.jpg";
-import webd09 from "../assets/img/webd/webd09.jpg";
-import webd10 from "../assets/img/webd/webd10.jpg";
-import webd11 from "../assets/img/webd/webd11.jpg";
-import webd12 from "../assets/img/webd/webd12.jpg";
-import webd13 from "../assets/img/webd/webd13.jpg";
-import webd14 from "../assets/img/webd/webd14.jpg";
-import webd15 from "../assets/img/webd/webd15.jpg";
-import webd16 from "../assets/img/webd/webd16.jpg";
-import webd17 from "../assets/img/webd/webd17.jpg";
+import it09 from "../assets/img/it/it09.jpg";
+import it10 from "../assets/img/it/it10.jpg";
+import it11 from "../assets/img/it/it11.jpg";
+import it12 from "../assets/img/it/it12.jpg";
+import it13 from "../assets/img/it/it13.jpg";
+import it14 from "../assets/img/it/it14.jpg";
+
 
 
 export const itText = [
@@ -75,67 +73,46 @@ export const itText = [
         date: "2022.07.31",
         channelId: "UCDfJ2rNZsANU6ZNYNlzDJ5Q",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(C-1) | 웹스토리보이 | 웹디자인기능사 실기",
-        img: webd09,
-        author: "webstoryboy",
-        videoId: "i5KPtxLRCyc",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "Ajax가 무엇인지 설명하는 영상 (+CORS, fetch 어쩌구)",
+        img: it09,
+        author: "코딩애플",
+        videoId: "nKD1atl6cAw",
+        date: "2021.11.12",
+        channelId: "UCSLrpBAzr-ROVGHQ5EmxnUg",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(C-2) | 웹스토리보이 | 웹디기 독학",
-        img: webd10,
-        author: "webstoryboy",
-        videoId: "P1fm-pfOQZA",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "콜백함수가 뭔지 한국어로 쉽게 설명하는 영상",
+        img: it10,
+        author: "코딩애플",
+        videoId: "-iZlNnTGotk",
+        date: "2021.10.27",
+        channelId: "UCSLrpBAzr-ROVGHQ5EmxnUg",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(C-3) | 웹스토리보이 | 웹디자인 | 웹퍼블리셔",
-        img: webd11,
-        author: "webstoryboy",
-        videoId: "SLQHfhDkZxE",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "코딩초보들이 헷갈리는 용어 : API가 뭐냐면",
+        img: it11,
+        author: "코딩애플",
+        videoId: "ckSdPNKM2pY",
+        date: "2021.08.13",
+        channelId: "UCSLrpBAzr-ROVGHQ5EmxnUg",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(C-4) | 웹스토리보이 | 웹디자인기능사 레이아웃",
-        img: webd12,
-        author: "webstoryboy",
-        videoId: "ojTAbAPWVPo",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "정보처리기사 자격증 꼭 따야할까? 따야하는 이유 6가지 #정처기 #정보처리기사",
+        img: it12,
+        author: "WeekendCode 주말코딩",
+        videoId: "EYCSB-wBfjk",
+        date: "2024.03.22",
+        channelId: "UCLkPI4TQRDjVjCdYsjgTm2w",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(D-1) | 웹스토리보이 | 웹디자인기능사 실기 포토샵",
-        img: webd13,
-        author: "webstoryboy",
-        videoId: "CZRVhkRr3Ak",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "어, 난 평생 Node.js가 웹서버인줄 알고 살아왔는데...",
+        img: it13,
+        author: "데이터 유치원",
+        videoId: "u-hZI2tFGdU",
+        date: "2022.01.04",
+        channelId: "UC2jBZ3K1iqnGrw4_eBa7iSA",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(D-2) | 웹스토리보이 | 웹디자인기능사 실기 기출문제",
-        img: webd14,
-        author: "webstoryboy",
-        videoId: "fMtNDR7AsNc",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(D-3) | 웹스토리보이 | 웹웹디자인기능사 실기 2023",
-        img: webd15,
-        author: "webstoryboy",
-        videoId: "ix3_Fj3XM7g",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(D-4) | 웹스토리보이 | 웹디자인기능사 실기 후기",
-        img: webd16,
-        author: "webstoryboy",
-        videoId: "75MguOwcKHE",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(E-1) | 웹스토리보이 | 웹디자인기능사 실기 d유형",
-        img: webd17,
-        author: "webstoryboy",
-        videoId: "EtK5SlmOlvw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "아무리 좋은 게 나와도 React를 이길 수 없는 이유 + 취준생이 Vue, Svelte, Angular를 배우면 안 되는 이유",
+        img: it14,
+        author: "ZeroCho TV",
+        videoId: "WRvd29xF8dc",
+        date: "2023.10.17",
+        channelId: "UCp-vBtwvBmDiGqjvLjChaJw",
     }
 ]

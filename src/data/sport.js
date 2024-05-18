@@ -1,124 +1,101 @@
-import gsap01 from "../assets/img/gsap/gsap01.jpg";
-import gsap02 from "../assets/img/gsap/gsap02.jpg";
-import gsap03 from "../assets/img/gsap/gsap03.jpg";
-import gsap04 from "../assets/img/gsap/gsap04.jpg";
-import gsap05 from "../assets/img/gsap/gsap05.jpg";
-import gsap06 from "../assets/img/gsap/gsap06.jpg";
-import gsap07 from "../assets/img/gsap/gsap07.jpg";
-import gsap08 from "../assets/img/gsap/gsap08.jpg";
-import gsap09 from "../assets/img/gsap/gsap09.jpg";
-import gsap10 from "../assets/img/gsap/gsap10.jpg";
-import gsap11 from "../assets/img/gsap/gsap11.jpg";
-import gsap12 from "../assets/img/gsap/gsap12.jpg";
-import gsap13 from "../assets/img/gsap/gsap13.jpg";
-import gsap14 from "../assets/img/gsap/gsap14.jpg";
-import gsap15 from "../assets/img/gsap/gsap15.jpg";
+import sport01 from "../assets/img/sport/sport01.jpg";
+import sport02 from "../assets/img/sport/sport02.jpg";
+import sport03 from "../assets/img/sport/sport03.jpg";
+import sport04 from "../assets/img/sport/sport04.jpg";
+import sport05 from "../assets/img/sport/sport05.jpg";
+import sport06 from "../assets/img/sport/sport06.jpg";
+import sport07 from "../assets/img/sport/sport07.jpg";
+import sport08 from "../assets/img/sport/sport08.jpg";
+import sport09 from "../assets/img/sport/sport09.jpg";
+import sport10 from "../assets/img/sport/sport10.jpg";
+import sport11 from "../assets/img/sport/sport11.jpg";
+import sport12 from "../assets/img/sport/sport12.jpg";
+
 
 export const sportText = [
     {
-        title: "01. GSAP Parallax Effect : 기본 애니메이션(feat. scrollTrigger) |  웹스토리보이",
-        img: gsap01,
-        author: "webstoryboy",
-        videoId: "_rAAY_Zp4FI",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "시즌 초반, 등 운동 루틴 총정리",
+        img: sport01,
+        author: "조준_Jun Cho",
+        videoId: "WBnQdbD1Nio",
+        date: "2024.05.12",
+        channelId: "UCrc9P_BBKjNDYr2TUdosfKQ",
     },{
-        title: "02. GSAP Parallax Effect : PIN 애니메이션(feat. scrollTrigger) | 웹스토리보이 |  포트폴리오",
-        img: gsap02,
-        author: "webstoryboy",
-        videoId: "T9kkvtHaq8E",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "처음 알려주는 꿀팁 가슴+삼두 운동루틴 6가지",
+        img: sport02,
+        author: "준규빌더",
+        videoId: "Ha235jYUtig",
+        date: "2023.02.14",
+        channelId: "UCDQ94nUOUel-hB4BHCZ6d5w",
     },{
-        title: "03. GSAP Parallax Effect : PIN 배경 고정하기(feat. scrollTrigger) | 웹스토리보이 |  스크롤 효과",
-        img: gsap03,
-        author: "webstoryboy",
-        videoId: "bP7iGE3YKOU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "타노스 김민수가 알려주는 어깨 운동의 모든 것",
+        img: sport03,
+        author: "아모띠 amotti",
+        videoId: "E0nhtX1mFSY",
+        date: "2024.04.29",
+        channelId: "UCx9XehuwNHLqWPt4U0t0LRA",
     },{
-        title: "04. GSAP Parallax Effect : 이질감 효과(feat. scrollTrigger) | 웹스토리보이 |  스크롤 효과",
-        img: gsap04,
-        author: "webstoryboy",
-        videoId: "neBcJlgfu_o",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "'스트레칭 부터 스쿼트까지' | 하체 운동 루틴",
+        img: sport04,
+        author: "정대진 Jung Dae Jin",
+        videoId: "0Z5jCvvdZyU",
+        date: "2024.03.06",
+        channelId: "UCtnbC5PTFo4m6DdVtBpWKxg",
     },{
-        title: "05. GSAP Parallax Effect : 나타나기 효과(feat. scrollTrigger) | 웹스토리보이 | 포폴 이펙트",
-        img: gsap05,
-        author: "webstoryboy",
-        videoId: "9lnfRXTXzL0",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "⚠️시원함 주의⚠️하루 10분 거북목 & 라운드숄더 교정 상체 스트레칭",
+        img: sport05,
+        author: "힙으뜸",
+        videoId: "Mtd0QotdlWo",
+        date: "2024.04.09",
+        channelId: "UC4yq3FWEWqMvFNFBsV3gbKQ",
     },{
-        title: "06. GSAP Parallax Effect : 텍스트 효과(feat. scrollTrigger) | 웹스토리보이 | 텍스트 이펙트",
-        img: gsap06,
-        author: "webstoryboy",
-        videoId: "gzJnKZGsB-Y",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "10MIN CORE WORKOUT I 하루10분 코어운동",
+        img: sport06,
+        author: "힙으뜸",
+        videoId: "hJuO1AUqLUc",
+        date: "2020.04.06",
+        channelId: "UC4yq3FWEWqMvFNFBsV3gbKQ",
     },{
-        title: "07. GSAP Parallax Effect : 배경색 효과(feat. scrollTrigger) | 웹스토리보이 | 배경 바꾸기",
-        img: gsap07,
-        author: "webstoryboy",
-        videoId: "kE0QRWPBVKs",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "팔 사이즈를 가장 빠르게 키우는 '슈퍼세트' 운동법!? ('아놀드 슈워제네거'의 팔운동 핵꿀팁)",
+        img: sport07,
+        author: "보통사람을 위한 운동채널",
+        videoId: "CbCT5TNCDDg",
+        date: "2021.04.06",
+        channelId: "UCF97u_Y5C3FxAcD0nn1DCKQ",
     },{
-        title: "08. GSAP Parallax Effect : 진행바 효과(feat. scrollTrigger) | 웹스토리보이 | progress",
-        img: gsap08,
-        author: "webstoryboy",
-        videoId: "pLgDSor_27g",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "일반인이 팔뚝(전완근)을 가장 빠르게 키우는 방법?",
+        img: sport08,
+        author: "피지컬에셋",
+        videoId: "Z5tIB3EsAyw",
+        date: "2023.06.12",
+        channelId: "UCKgnUtkVL8o9U2h3451sBVA",
     },{
-        title: "09. GSAP Parallax Effect : 메뉴 이동 효과 (feat. scrollTrigger) | 웹스토리보이 | 메뉴 클릭하기",
-        img: gsap09,
-        author: "webstoryboy",
-        videoId: "d5xSXS1UZFY",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "2분할, 3분할? 운동 횟수가 아주 중요합니다. [분할법/반복수/루틴짜는법]",
+        img: sport09,
+        author: "핏블리 FITVELY",
+        videoId: "YahXKYnc8K8",
+        date: "2021.09.26",
+        channelId: "UC3hRpIQ4x5niJDwjajQSVPg",
     },{
-        title: "10. GSAP Parallax Effect : 메뉴 축소 효과 (feat. scrollTrigger) | 웹스토리보이 | 메뉴 바꾸기",
-        img: gsap10,
-        author: "webstoryboy",
-        videoId: "Z2NeyjasCdY",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "왜, 스트레칭만 하고 싶은 그런 날 있잖아요..🥹ㅣ25분 심으뜸 전신 스트레칭",
+        img: sport10,
+        author: "힙으뜸",
+        videoId: "jw1gxrzRgeU",
+        date: "2024.01.13",
+        channelId: "UC4yq3FWEWqMvFNFBsV3gbKQ",
     },{
-        title: "11. GSAP Parallax Effect : 메뉴 숨기기 효과 (feat. scrollTrigger) | 웹스토리보이 | 메뉴 바꾸기",
-        img: gsap11,
-        author: "webstoryboy",
-        videoId: "zMBXXAl7MaY",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "’헬스초보’를 위한 정석 하체운동 루틴 [운동순서/셋트/반복수]",
+        img: sport11,
+        author: "핏블리 FITVELY",
+        videoId: "t_DLHmrDJRQ",
+        date: "2024.04.29",
+        channelId: "UC3hRpIQ4x5niJDwjajQSVPg",
     },{
-        title: "12. GSAP Parallax Effect : 가로 효과 (feat. scrollTrigger) | 웹스토리보이 | 가로 사이트",
-        img: gsap12,
-        author: "webstoryboy",
-        videoId: "DCtCgE08E8I",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "13. GSAP Parallax Effect : 가로/세로 효과 (feat. scrollTrigger) | 웹스토리보이 | 가로세로 사이트",
-        img: gsap13,
-        author: "webstoryboy",
-        videoId: "YPzwvzFfCfU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "14. GSAP Parallax Effect : 가로/세로 나타나기 효과 (feat. scrollTrigger) | 웹스토리보이 | 포폴사이트",
-        img: gsap14,
-        author: "webstoryboy",
-        videoId: "puCe3ollwTg",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "15. GSAP Parallax Effect : 스무스 효과 (feat. scrollTrigger) | 웹스토리보이 | 포폴은 스무스지",
-        img: gsap15,
-        author: "webstoryboy",
-        videoId: "tMsFs6GoXmg",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    }
+        title: "’두껍고 굵은 팔 만드는 최고의 삼두+이두 운동 6가지",
+        img: sport12,
+        author: "준규빌더",
+        videoId: "RvRWlBQadGI",
+        date: "2024.01.10",
+        channelId: "UCDQ94nUOUel-hB4BHCZ6d5w",
+    },
 ]

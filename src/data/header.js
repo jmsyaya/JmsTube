@@ -22,11 +22,11 @@ export const headerMenus = [
         icon: <CiFaceSmile />,
         src: "/"
     },
-    {
-        title: "인기 영상",
-        icon: <CiMedal />,
-        src: "/popular"
-    },
+    // {
+    //     title: "인기 영상",
+    //     icon: <CiMedal />,
+    //     src: "/popular"
+    // },
     {
         title: "추천 영상",
         icon: <GoThumbsup />,
